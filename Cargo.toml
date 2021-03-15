@@ -1,5 +1,5 @@
 [package]
-name = "efm32gg11b-hal"
+name = "efm32gg11b"
 version = "0.1.0"
 authors = ["PabloMansanet <pablomansanet@gmail.com>"]
 edition = "2018"
