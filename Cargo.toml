@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["PabloMansanet <pablomansanet@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/pablo-mansanet-bluefruit/efm32gg11b"
+description = "svd2rust generated efm32gg11b peripheral access crate"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
